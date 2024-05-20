@@ -7,7 +7,7 @@ Part lll Matching 5道题
 Part IV Writing 3道题
 四个part全部都是书上的内容
 Part1判断题 就是给一句话问对错 没有别的材料Part2多选 其实是五选五 有两个大题 个人觉得这个不看书也能根据英语意思推出来 相当于用英语翻译英语一样
-Part3匹配题 就是给一段长材料 让你选出是哪个sample 都出自书上的SectionB 推荐大家重点看第六烴经胲尻行单元的
+Part3匹配题 就是给一段长材料 让你选出是哪个sample 都出自书上的SectionB 推荐大家重点看第六单元的。个人考了之后发现主要是蓝字。
 Part4作文 都会给一段材料 我们考的是三单元的
 sectionA写introduction purpose scope
 四单元的sectionD
