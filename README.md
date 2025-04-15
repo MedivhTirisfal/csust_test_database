@@ -22,7 +22,7 @@
 
 9. 纯公益，秉持共享精神
 
-10. 本题库整理仓库（国内网络有一定几率访问不了）位于，：https://github.com/MedivhTirisfal/csust_test_database
+10. 本题库整理仓库（国内网络有一定几率访问不了）位于：https://github.com/MedivhTirisfal/csust_test_database
 
 ## 个人打个小小的广告
 
