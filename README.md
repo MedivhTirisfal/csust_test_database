@@ -23,7 +23,9 @@
 
 9. 纯公益，秉持共享精神
 
-10. 本题库整理仓库（国内网络有一定几率访问不了）位于：https://github.com/MedivhTirisfal/csust_test_database
+10. 本题库整理仓库（国内网络有一定几率访问不了，有能力的点个star（收藏）吧，求求了 求求了~）位于：https://github.com/MedivhTirisfal/csust_test_database
+
+11. 考虑到一些人不方便或不熟悉github的因素，于是给个百度云盘链接（如果有什么更好的方式，可以发邮件或者提Issue给我）：通过网盘分享的文件：https://pan.baidu.com/s/1_A2qxrle-vc7oaNFAAhFbw?pwd=uej4 提取码: uej4
 
 ## 个人打个小小的广告
 
