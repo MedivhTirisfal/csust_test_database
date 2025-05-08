@@ -25,9 +25,11 @@
 
 10. 本题库整理仓库（国内网络有一定几率访问不了，有能力的点个star（收藏）吧，求求了 求求了~）位于：https://github.com/MedivhTirisfal/csust_test_database
 
-11. 考虑到一些人不方便或不熟悉github的因素，于是给个百度云盘链接（如果有什么更好的方式，可以发邮件或者提Issue给我）：通过网盘分享的文件：https://pan.baidu.com/s/1_A2qxrle-vc7oaNFAAhFbw?pwd=uej4 提取码: uej4
+11. 因为收到很多封对github访问缓慢的邮件（所以为什么计算机院人不会加速github啊），这里特地添加了gitee仓库，方便没有加速软件的用户访问（注意，Gitee不保证即时同步github）：https://gitee.com/MedivhTirisfal/csust_test_database
 
-12. 百度云盘资源最近更新时间：2025.4.28
+12. 考虑到一些人不方便或不熟悉github的因素，于是给个百度云盘链接（如果有什么更好的方式，可以发邮件或者提Issue给我）：通过网盘分享的文件：https://pan.baidu.com/s/1_A2qxrle-vc7oaNFAAhFbw?pwd=uej4 提取码: uej4
+
+13. 百度云盘资源最近更新时间：2025.4.28
 
 ## 个人打个小小的广告
 
@@ -40,4 +42,4 @@
 - 复试往年真题（仅限复试内容为程序设计和操作系统）也可以咨询
 
 
-更新于2025年04月16日
+更新于2025年05月08日
